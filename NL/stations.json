@@ -205,20 +205,20 @@
       "description": "No Alternative",
       "genre": "Alternative",
       "frequency": 107.1,
-      "mp3Stream": "https://22543.live.streamtheworld.com:443/KINK_SC",
-      "aacStream": "https://25333.live.streamtheworld.com:443/KINKAAC_SC",
+      "mp3Stream": "https://playerservices.streamtheworld.com/pls/KINK.pls",
+      "aacStream": "https://playerservices.streamtheworld.com/pls/KINKAAC.pls",
       "imageUrl": "https://cdn-profiles.tunein.com/s210430/images/logod.png"
     },
     {
       "id": "NL20",
-      "name": "Kink CLASSICS",
+      "name": "Kink 90's",
       "country": "Netherlands",
-      "description": "Het themakanaal KINK CLASSICS, met nonstop de beste alternative classics",
+      "description": "Op KINK 90's hoor je 24 uur per dag de beste alternative classics uit de jaren 90!",
       "genre": "Alternative classics",
       "frequency": 107.2,
-      "mp3Stream": "http://22553.live.streamtheworld.com:3690/KINK_DNA_SC",
-      "aacStream": "http://25353.live.streamtheworld.com:80/KINK_DNAAAC_SC",
-      "imageUrl": "https://cdn-profiles.tunein.com/s194478/images/logod.png"
+      "mp3Stream": "https://playerservices.streamtheworld.com/pls/KINK_90S.pls",
+      "aacStream": "https://playerservices.streamtheworld.com/pls/KINK_90SAAC.pls",
+      "imageUrl": "https://cdn-profiles.tunein.com/s287077/images/logog.jpg"
     },
       {
       "id": "NL21",
@@ -227,20 +227,20 @@
       "description": "Het themakanaal KINK DISTORTION met non-stop de beste metal, hardrock en metalcore",
       "genre": "metal, hardrock en metalcore",
       "frequency": 107.3,
-      "mp3Stream": "https://25253.live.streamtheworld.com:443/KINK_DISTORTION_SC",
-      "aacStream": "https://25353.live.streamtheworld.com:443/KINK_DISTORTIONAAC_SC",
+      "mp3Stream": "https://playerservices.streamtheworld.com/pls/KINK_DISTORTION.pls",
+      "aacStream": "https://playerservices.streamtheworld.com/pls/KINK_DISTORTIONAAC.pls",
       "imageUrl": "https://cdn-profiles.tunein.com/s276282/images/logod.png"
     },
     {
       "id": "NL22",
-      "name": "Kink Indi",
+      "name": "Kink 80's",
       "country": "Netherlands",
-      "description": "Het themakanaal KINK INDIE met non-stop de beste alternatieve indie",
-      "genre": "Indie",
+      "description": "De muziek uit je jeugd, de muziek die de weg baande, de muziek die wars was van conventies. The Cure, David Bowie, R.E.M., Depeche Mode: je hoort ze allemaal op KINK 80's!",
+      "genre": "Alternative classics",
       "frequency": 107.4,
-      "mp3Stream": "https://22553.live.streamtheworld.com:443/KINKINDIE_SC",
-      "aacStream": "https://22723.live.streamtheworld.com:443/KINKINDIEAAC_SC",
-      "imageUrl": "https://cdn-profiles.tunein.com/s287077/images/logod.png"
+      "mp3Stream": "http://playerservices.streamtheworld.com/pls/KINK_DNA.pls",
+      "aacStream": "http://playerservices.streamtheworld.com/pls/KINK_DNAAAC.pls",
+      "imageUrl": "https://cdn-profiles.tunein.com/s194478/images/logog.jpg"
     },
     {
       "id": "NL23",
